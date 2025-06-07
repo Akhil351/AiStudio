@@ -1,0 +1,10 @@
+server:
+  port: 3510
+  servlet:
+    context-path: /api/v1.0/
+spring:
+  application:
+    name: SpringAiDemo
+  ai:
+    openai:
+      api-key:  your-api-key
